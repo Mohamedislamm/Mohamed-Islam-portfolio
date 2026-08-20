@@ -1,7 +1,8 @@
 # Mohamed Islam Khaled — Portfolio & Interactive Engineering Lab
 
 A modern, high-performance developer portfolio and interactive engineering sandbox built with React 19, TypeScript, Tailwind CSS, and Framer Motion. Engineered and structured with Google AI Studio.
-
+Check it out 
+https://mohamedislamm.github.io/Mohamed-Islam-portfolio/
 ---
 
 ## Overview
